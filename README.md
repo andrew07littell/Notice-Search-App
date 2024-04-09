@@ -1,10 +1,6 @@
-# Column Frontend Exercise
+Public notice search application using React. The application should allow users to search for a notice by title and display relevant information. The primary goal is to demonstrate your proficiency in React, state management, and asynchronous data fetching via Firestore.
 
-Your task is to create a public notice search application using React. The application should allow users to search for a notice by title and display relevant information. The primary goal is to demonstrate your proficiency in React, state management, and asynchronous data fetching via Firestore.
-
-Implementation of the exercise should take no more than 3 hours. Feel free to look up documentation and API references, but please work on the solution on your own.
-
-To complete this exercise you will need a level of familiarity with the following libraries:
+Will need a level of familiarity with the following libraries:
 
 - [React](https://react.dev/)
 - [Firebase Firestore SDK](https://firebase.google.com/docs/firestore/query-data/get-data)
@@ -34,10 +30,6 @@ Each notice document has the following fields:
 
 The project is preconfigured with Jest and React Testing Library. You can run the test suite with `npm test`.
 
-## Requirements
-
-Using any development environment you are comfortable with, complete the requirements below. You can use any additional libraries or tools you prefer. Use Git to track your progress and commit your work as you go.
-
 ### Search UI
 
 - [ ] The dashboard should display a search input and a list of notices
@@ -57,8 +49,3 @@ Using any development environment you are comfortable with, complete the require
 - [ ] Add a filter to search by date of publication
 - [ ] Add routing to view a single notice
 - [ ] Add a form to add new notices with a title, publication date, and content
-
-## Submission
-
-When you have completed the exercise, please provide a link to view or download your repository in reply to Monique. If you have any questions or need clarification on the requirements, please reach out to your contact at Column.
-
